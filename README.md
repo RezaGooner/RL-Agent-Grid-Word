@@ -52,7 +52,7 @@ RL-Agent-Grid-World/
 │
 ├── grid.py                  # Core GridWorld environment & dynamics
 ├── value_iteration.py       # Value iteration algorithm implementation
-├── editor.py                # GUI implementation (this file)
+├── main.py               
 └── README.md                # Project documentation
 ```
 
